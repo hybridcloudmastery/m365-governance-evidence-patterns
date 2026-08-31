@@ -57,7 +57,6 @@ Relevant areas include Microsoft 365 and Copilot evidence, identity and access g
 
 **Paul-Christian Markovski**  
 Cloud Governance & Automation Consultant  
-Amsterdam · European engagements
 
 ## Scope boundary
 
